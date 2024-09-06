@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+    text-align: center;
+    margin-bottom: 20px;
+    color:aquamarine;
+}
+
+.layoutCA
+{
+    margin-bottom: 15px;
+}
+
+.layoutCA label
+{
+    display: block;
+    margin-bottom: 5px;
+    color: black;
+    font-weight: bold;
+}
+
+.layoutCA input[type="text"],
+.layoutCA input[type="password"],
+.layoutCA input[type="tel"],
+.layoutCA input[type="url"],
+.layoutCA input[type="date"],
+.layoutCA input[type="color"],
+.layoutCA input[type="number"],
+.layoutCA input[type="range"],
+.layoutCA input[type="file"],
+.layoutCA input[type="checkbox"],
+.layoutCA input[type="radio"],
+
+.principal 
+{
+width:100%;
+padding: 10px;
+border:1px solid 
+max.width: 600px;
+margin: 50 px auto;
+padding: 20px;
+background 
+border-radius:12px
+}
+
+.layoutCA button[type="reset"]
+{
+    background-color: blueviolet;
+    cursor: pointer; 
+}
+
+.layoutCA button:hover
+{
+    background-color: aquamarine;
+}
+.layoutCA input[type="checkbox"],
+.layoutCA input[type="radio"],
+{
+    width:auto;
+    margin-right: 10px;
+    margin: top 0px;
+}
+
+.layoutCA input[type="range"],
+{
+    width: 100px;
+}
+
+.layoutCA button
+{
+    width: 40%;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    margin-right: 4%;
+}
